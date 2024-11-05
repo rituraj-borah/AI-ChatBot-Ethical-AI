@@ -1,4 +1,4 @@
-# AI-ChatBot-Ethical-AI
+# AI ChatBot with Ethical AI principles
 
 ### Objective: 
 - Developed a Conversational AI Chatbot (QnA Bot) using Microsoft Azure Language Service to enhance the navigation experience on St. Clair College's website.
